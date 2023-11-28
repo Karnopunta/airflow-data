@@ -1,0 +1,2 @@
+input.first_name,input.country,details.credits_used,details.duration,details.samples,details.country,details.first_name_sanitized,result_found,first_name,probability,gender
+adi,US,1,13ms,9273,US,sandra,True,Sandra,0.98,female
